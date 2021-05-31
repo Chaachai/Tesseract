@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Tesseract/static/css/main.5b5a662f.chunk.css",
-    "main.js": "/Tesseract/static/js/main.bd0c0a5b.chunk.js",
-    "main.js.map": "/Tesseract/static/js/main.bd0c0a5b.chunk.js.map",
+    "main.css": "/Tesseract/static/css/main.6ace7823.chunk.css",
+    "main.js": "/Tesseract/static/js/main.ca15d22a.chunk.js",
+    "main.js.map": "/Tesseract/static/js/main.ca15d22a.chunk.js.map",
     "runtime-main.js": "/Tesseract/static/js/runtime-main.8de539ad.js",
     "runtime-main.js.map": "/Tesseract/static/js/runtime-main.8de539ad.js.map",
     "static/js/2.155118b3.chunk.js": "/Tesseract/static/js/2.155118b3.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.748bf2ce.chunk.js": "/Tesseract/static/js/3.748bf2ce.chunk.js",
     "static/js/3.748bf2ce.chunk.js.map": "/Tesseract/static/js/3.748bf2ce.chunk.js.map",
     "index.html": "/Tesseract/index.html",
-    "static/css/main.5b5a662f.chunk.css.map": "/Tesseract/static/css/main.5b5a662f.chunk.css.map",
+    "static/css/main.6ace7823.chunk.css.map": "/Tesseract/static/css/main.6ace7823.chunk.css.map",
     "static/js/2.155118b3.chunk.js.LICENSE.txt": "/Tesseract/static/js/2.155118b3.chunk.js.LICENSE.txt",
     "static/media/Adria-logo.94b4bae1.png": "/Tesseract/static/media/Adria-logo.94b4bae1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8de539ad.js",
     "static/js/2.155118b3.chunk.js",
-    "static/css/main.5b5a662f.chunk.css",
-    "static/js/main.bd0c0a5b.chunk.js"
+    "static/css/main.6ace7823.chunk.css",
+    "static/js/main.ca15d22a.chunk.js"
   ]
 }
