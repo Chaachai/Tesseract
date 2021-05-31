@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Tesseract/static/css/main.5b5a662f.chunk.css",
-    "main.js": "/Tesseract/static/js/main.40a5517a.chunk.js",
-    "main.js.map": "/Tesseract/static/js/main.40a5517a.chunk.js.map",
-    "runtime-main.js": "/Tesseract/static/js/runtime-main.51b03803.js",
-    "runtime-main.js.map": "/Tesseract/static/js/runtime-main.51b03803.js.map",
-    "static/js/2.7e63f422.chunk.js": "/Tesseract/static/js/2.7e63f422.chunk.js",
-    "static/js/2.7e63f422.chunk.js.map": "/Tesseract/static/js/2.7e63f422.chunk.js.map",
-    "static/js/3.b98c72ca.chunk.js": "/Tesseract/static/js/3.b98c72ca.chunk.js",
-    "static/js/3.b98c72ca.chunk.js.map": "/Tesseract/static/js/3.b98c72ca.chunk.js.map",
+    "main.js": "/Tesseract/static/js/main.f35e2f0e.chunk.js",
+    "main.js.map": "/Tesseract/static/js/main.f35e2f0e.chunk.js.map",
+    "runtime-main.js": "/Tesseract/static/js/runtime-main.09df8cd8.js",
+    "runtime-main.js.map": "/Tesseract/static/js/runtime-main.09df8cd8.js.map",
+    "static/js/2.15cb17f8.chunk.js": "/Tesseract/static/js/2.15cb17f8.chunk.js",
+    "static/js/2.15cb17f8.chunk.js.map": "/Tesseract/static/js/2.15cb17f8.chunk.js.map",
+    "static/js/3.fa9aceba.chunk.js": "/Tesseract/static/js/3.fa9aceba.chunk.js",
+    "static/js/3.fa9aceba.chunk.js.map": "/Tesseract/static/js/3.fa9aceba.chunk.js.map",
     "index.html": "/Tesseract/index.html",
     "static/css/main.5b5a662f.chunk.css.map": "/Tesseract/static/css/main.5b5a662f.chunk.css.map",
-    "static/js/2.7e63f422.chunk.js.LICENSE.txt": "/Tesseract/static/js/2.7e63f422.chunk.js.LICENSE.txt",
+    "static/js/2.15cb17f8.chunk.js.LICENSE.txt": "/Tesseract/static/js/2.15cb17f8.chunk.js.LICENSE.txt",
     "static/media/Adria-logo.94b4bae1.png": "/Tesseract/static/media/Adria-logo.94b4bae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.51b03803.js",
-    "static/js/2.7e63f422.chunk.js",
+    "static/js/runtime-main.09df8cd8.js",
+    "static/js/2.15cb17f8.chunk.js",
     "static/css/main.5b5a662f.chunk.css",
-    "static/js/main.40a5517a.chunk.js"
+    "static/js/main.f35e2f0e.chunk.js"
   ]
 }
